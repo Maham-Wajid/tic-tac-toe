@@ -9,3 +9,4 @@ env/
 # VSCode or IDE configs
 .vscode/
 .idea/
+.DS_Store
