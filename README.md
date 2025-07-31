@@ -35,10 +35,5 @@ You will be prompted to:
 2. Choose board size
 3. Enter positions to make moves (0 to n-1)
 
-## 📄 Assessment Info
-
-This take-home was completed using OpenAI ChatGPT (GPT-4o). The AI transcript is included with this submission.
-https://chatgpt.com/share/68556a4f-22e4-8012-855b-b01d3cb252f7
-
 ---
 
